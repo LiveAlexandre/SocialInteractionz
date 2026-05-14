@@ -1,25 +1,64 @@
-Social Interactionz is a plugin that Discord-ifies your Minecraft chat, bringing modern messaging features straight into your server. It makes communication smoother, more interactive, and way more fun for players while giving admins powerful tools to manage everything easily.
+# 🌐 Social Interactionz
 
-Features:
+**Social Interactionz** is a powerful Minecraft plugin that transforms your in-game chat into a **Discord-like messaging experience**. It brings modern features directly into your server, making communication smoother, more interactive, and far more engaging for players — while giving admins full control.
 
-Custom emoji support in chat (e.g. :hug:, :gg:)
- - use /emojis in-game for some examples, full emoji list (and to add more) in config file.
-Message reactions
- - click the NEW [reply] button in-chat to add a reaction to that message
-Reply to messages (chat threading-style)
- - click the NEW [reply] button in-chat to add a reply to that message
-/sudo admin command
- - this allows for you to make players chat, use commands OR BOTH!
-Quick chat utilities:
-#inventory
-#item
-#ping
-#coords
-..more!
-Discord-style chat experience inside Minecraft
+---
 
-permissions:
-/sudo -> si.sudo
-rest: coming
+## ✨ Features
 
-Click the release TAB on the right of the page to DOWNLOAD Social Interactionz!
+### 💬 Modern Chat Experience
+- Enjoy a **Discord-style chat system** inside Minecraft  
+- Cleaner, more interactive conversations  
+
+### 😄 Custom Emojis
+- Use emojis directly in chat: `:hug:`, `:gg:`  
+- Run `/emojis` in-game to preview available emojis  
+- Fully customizable via the config file  
+
+### ❤️ Message Reactions
+- React to messages like Discord  
+- Click the **[reply]** button to add reactions  
+
+### 🔁 Replies & Threading
+- Reply to specific messages  
+- Keep conversations organized (thread-style chat system)  
+
+### ⚡ Quick Chat Utilities
+Use special tags in chat for instant info:
+- `#inventory`
+- `#item`
+- `#ping`
+- `#coords`
+- …and more!
+
+### 🛠️ Admin Tools
+- **`/sudo` command**
+  - Force players to:
+    - Send messages  
+    - Run commands  
+    - Or both  
+
+---
+
+## 🔐 Permissions
+
+| Command | Permission |
+|--------|-----------|
+| `/sudo` | `si.sudo` |
+| More coming soon… |
+
+---
+
+## 🚀 Why Use Social Interactionz?
+
+- Makes your server feel **modern and alive**
+- Improves **player engagement**
+- Adds **quality-of-life tools** everyone will love
+- Gives admins **powerful moderation controls**
+
+---
+
+## 📥 Download
+
+👉 Click the link below to download **Social Interactionz**
+``****
