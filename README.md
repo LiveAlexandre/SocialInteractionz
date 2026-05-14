@@ -58,6 +58,9 @@ Use special tags in chat for instant info:
 
 ---
 
+Social Interactionz is a Minecraft Paper Plugin made for:
+1.21 & UP.
+
 ## 📥 Download
 
 👉 Click the link below to download **Social Interactionz**
